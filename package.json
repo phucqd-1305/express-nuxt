@@ -9,8 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "core-js": "^3.6.5",
     "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
